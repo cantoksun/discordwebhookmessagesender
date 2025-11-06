@@ -18,7 +18,7 @@ it supports both **@mention** and **user id** input, and automatically deletes t
 - [node.js](https://nodejs.org/) v16 or newer  
 - a discord bot token  
 - a discord channel **webhook**
-- 
+
 ---
 
 ## ⚙️ Setup
