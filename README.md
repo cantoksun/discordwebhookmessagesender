@@ -29,7 +29,7 @@ git clone https://github.com/cantoksun/discordwebhookmessagesender.git
 cd discordwebhookmessagesender
 
 ### 2️⃣ install modules
-```bash
+
 npm install dotenv
 npm install discord.js
 
