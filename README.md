@@ -29,5 +29,12 @@ git clone https://github.com/cantoksun/discordwebhookmessagesender.git
 cd discordwebhookmessagesender
 
 ### 2️⃣ install modules
+```bash
 npm install dotenv
 npm install discord.js
+
+### 3️⃣ create a file named .env in the project root and fill
+```bash
+TOKEN=
+WEBHOOK_ID=
+WEBHOOK_TOKEN=
